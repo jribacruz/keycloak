@@ -10,7 +10,7 @@
     "angular-resource": "^1.6.10",
     "angular-route": "^1.6.10",
     "angular-sanitize": "^1.6.10",
-    "angular-translate": "2.15.1",
+    "angular-translate": "2.18.4",
     "angular-translate-loader-url": "2.15.1",
     "angular-treeview": "0.1.5",
     "angular-ui-select2": "0.0.5",
