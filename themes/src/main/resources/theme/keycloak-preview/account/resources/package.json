@@ -18,7 +18,7 @@
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-router-dom": "^4.3.1",
-    "systemjs": "^0.20.17",
+    "systemjs": "^0.21.6",
     "systemjs-plugin-babel": "0.0.25"
   },
   "devDependencies": {
