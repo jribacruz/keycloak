@@ -59,7 +59,7 @@
         <selenium.version>3.14.0</selenium.version>
         <arquillian-drone.version>2.5.1</arquillian-drone.version>
         <arquillian-graphene.version>2.3.2</arquillian-graphene.version>
-        <arquillian-wildfly-container.version>2.1.1.Final</arquillian-wildfly-container.version>
+        <arquillian-wildfly-container.version>3.0.0.Final</arquillian-wildfly-container.version>
         <arquillian-wls-container.version>1.0.1.Final</arquillian-wls-container.version>
         <arquillian-jetty9-container.version>1.0.0.CR3</arquillian-jetty9-container.version>
         <arquillian-container-karaf.version>2.2.0.Final</arquillian-container-karaf.version>
@@ -401,7 +401,7 @@
                 <keycloak.connectionsJpa.driver>org.h2.Driver</keycloak.connectionsJpa.driver>
                 <keycloak.connectionsJpa.database>keycloak</keycloak.connectionsJpa.database>
                 <keycloak.connectionsJpa.user>sa</keycloak.connectionsJpa.user>
-                <keycloak.connectionsJpa.password></keycloak.connectionsJpa.password>
+                <keycloak.connectionsJpa.password/>
                 <keycloak.connectionsJpa.url>jdbc:h2:mem:test;MVCC=TRUE;DB_CLOSE_DELAY=-1</keycloak.connectionsJpa.url>
             </properties>
         </profile>
