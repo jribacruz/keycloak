@@ -17,16 +17,16 @@
 
     <properties>
         <aopalliance.version>1.0</aopalliance.version>
-        <xstream.version>1.4.10</xstream.version>
+        <xstream.version>1.4.19</xstream.version>
         <antlr-runtime.version>3.5.2</antlr-runtime.version>
-        <ant.version>1.8.4</ant.version>
+        <ant.version>1.10.9</ant.version>
         <ant-launcher.version>1.8.4</ant-launcher.version>
         <maven.version>3.3.9</maven.version>
         <wagon.version>3.0.0</wagon.version>
         <plexus-classworlds.version>2.5.2</plexus-classworlds.version>
         <plexus-component-annotations.version>1.6</plexus-component-annotations.version>
         <plexus-interpolation.version>1.21</plexus-interpolation.version>
-        <plexus-utils.version>3.0.22</plexus-utils.version>
+        <plexus-utils.version>3.0.24</plexus-utils.version>
         <aether.version>1.1.0</aether.version>
         <org.eclipse.sisu.inject>0.3.2</org.eclipse.sisu.inject>
         <org.eclipse.sisu.plexus>0.3.2</org.eclipse.sisu.plexus>
