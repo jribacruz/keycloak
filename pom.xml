@@ -41,11 +41,11 @@
 
         <product.build-time>${timestamp}</product.build-time>
 
-        <wildfly.version>17.0.1.Final</wildfly.version>
+        <wildfly.version>19.0.0.Final</wildfly.version>
         <wildfly.build-tools.version>1.2.10.Final</wildfly.build-tools.version>
         <eap.version>7.3.0.CD17-redhat-00003</eap.version>
         <eap.build-tools.version>1.2.10.Final</eap.build-tools.version>
-        <wildfly.core.version>9.0.2.Final</wildfly.core.version>
+        <wildfly.core.version>18.1.2.Final</wildfly.core.version>
 
         <jboss.as.version>7.2.0.Final</jboss.as.version>
 
@@ -86,7 +86,7 @@
         <sun.jaxb.version>2.3.1</sun.jaxb.version>
         <org.glassfish.jaxb.xsom.version>2.3.1</org.glassfish.jaxb.xsom.version>
         <undertow.version>2.0.21.Final</undertow.version>
-        <elytron.version>1.9.1.Final</elytron.version>
+        <elytron.version>1.11.4.Final</elytron.version>
         <elytron.undertow-server.version>1.5.0.Final</elytron.undertow-server.version>
         <jetty92.version>9.2.4.v20141103</jetty92.version>
         <jetty93.version>9.3.9.v20160517</jetty93.version>
