@@ -67,7 +67,7 @@
         <arquillian-tomcat7-container-version>1.0.1.Final</arquillian-tomcat7-container-version>
         <arquillian-tomcat8-container-version>1.0.1.Final</arquillian-tomcat8-container-version>
         <arquillian-tomcat9-container-version>1.0.1.Final</arquillian-tomcat9-container-version>
-        <undertow-embedded.version>1.0.0.Alpha2</undertow-embedded.version>
+        <undertow-embedded.version>1.0.0.Final</undertow-embedded.version>
         <version.org.wildfly.extras.creaper>1.6.1</version.org.wildfly.extras.creaper>
         <testcontainers.version>1.5.1</testcontainers.version>
         <appium.client.version>6.1.0</appium.client.version>
@@ -401,7 +401,7 @@
                 <keycloak.connectionsJpa.driver>org.h2.Driver</keycloak.connectionsJpa.driver>
                 <keycloak.connectionsJpa.database>keycloak</keycloak.connectionsJpa.database>
                 <keycloak.connectionsJpa.user>sa</keycloak.connectionsJpa.user>
-                <keycloak.connectionsJpa.password></keycloak.connectionsJpa.password>
+                <keycloak.connectionsJpa.password/>
                 <keycloak.connectionsJpa.url>jdbc:h2:mem:test;MVCC=TRUE;DB_CLOSE_DELAY=-1</keycloak.connectionsJpa.url>
             </properties>
         </profile>
