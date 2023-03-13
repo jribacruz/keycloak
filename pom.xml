@@ -107,7 +107,7 @@
         <!-- Others -->
         <apacheds.version>2.0.0-M21</apacheds.version>
         <apacheds.codec.version>1.0.0-M33</apacheds.codec.version>
-        <google.zxing.version>3.2.1</google.zxing.version>
+        <google.zxing.version>3.4.1</google.zxing.version>
         <freemarker.version>2.3.26-incubating</freemarker.version>
 
         <jetty9.version>${jetty92.version}</jetty9.version>
