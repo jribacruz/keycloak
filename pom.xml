@@ -58,7 +58,7 @@
         <jboss.dmr.version>1.5.0.Final</jboss.dmr.version>
         <bouncycastle.version>1.60</bouncycastle.version>
         <cxf.version>3.3.2</cxf.version>
-        <cxf.jetty.version>3.3.2</cxf.jetty.version>
+        <cxf.jetty.version>3.5.6</cxf.jetty.version>
         <cxf.jaxrs.version>3.3.2</cxf.jaxrs.version>
         <cxf.undertow.version>3.3.2</cxf.undertow.version>
         <dom4j.version>2.1.1</dom4j.version>
