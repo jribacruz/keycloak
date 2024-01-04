@@ -21,7 +21,7 @@
         <antlr-runtime.version>3.5.2</antlr-runtime.version>
         <ant.version>1.8.4</ant.version>
         <ant-launcher.version>1.8.4</ant-launcher.version>
-        <maven.version>3.3.9</maven.version>
+        <maven.version>3.8.1</maven.version>
         <wagon.version>3.0.0</wagon.version>
         <plexus-classworlds.version>2.5.2</plexus-classworlds.version>
         <plexus-component-annotations.version>1.6</plexus-component-annotations.version>
